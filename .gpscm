@@ -1,0 +1,12 @@
+solutions = [
+  { "name"         : "gopro-lib-telemetry",
+    "url"          : "git@github.com:generalthings/gopro-lib-telemetry@1.54",
+    "deps_file"    : "DEPS",
+    "managed"      : False,
+    "custom_deps"  : {
+    },
+    "safesync_url" : "",
+  },
+]
+version = "1.0"
+target_os = ["ios"]
